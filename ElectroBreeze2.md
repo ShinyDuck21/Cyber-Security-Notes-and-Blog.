@@ -1,7 +1,3 @@
----
-tags:
-  - Hack-The-Box-Malware-Analysis
----
 ## Write Up
 ---
 This was my first reverse engineering project and I think it went pretty well. I did the [ElectroBreeze2](https://app.hackthebox.com/sherlocks/ElectricBreeze-2) capture the flag from hack the box. This was pretty challenging as I am very new to the cybersecurity space and I have only watched people like [John Hammond](https://www.youtube.com/@_JohnHammond) do this before. I always thought that this would be so cool to do as a career and I haven't changed my mind. This was a fun way to spend a couple of hours in between my busy school life.
