@@ -9,5 +9,5 @@ Feel free to add to my notes. I use obsidian for note taking so this repo is bes
 
 ## Latest Notes/Writeup
 ---
- - New-File 
- - ElectroBreeze2
+ - [[./New-File|New-File]] 
+ - [[./ElectroBreeze2|ElectroBreeze2]]
